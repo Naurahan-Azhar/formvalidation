@@ -1,0 +1,52 @@
+.bgimg{
+    background-color: rgba(15, 14, 14, 0.933);
+}
+.main{
+    height: 500px;
+    width: 800px;
+    background-color: rgb(202, 235, 243);
+    margin-left: 350px;
+    margin-top: 100px;
+    align-items: center;
+    
+}
+.application{
+    padding: 10px;
+    text-align: center;
+    background-color: rgb(219, 70, 70);
+}
+.form{
+    float: left;
+    align-content: flex-end;
+    block-size: 200px;
+    margin-left: 100px;
+    margin-top: 75px;
+    width: 600px;
+    display: inline;
+}
+.btn{
+    height: 100px;
+    width: fit-content;
+    margin-left: 100px;
+}
+.submit{
+    margin-top: 40px;
+    margin-right: 150px;
+}
+.align{
+    margin-left: 100px;
+    width: 200px;
+}
+#name{
+    margin-left: 121px;
+}
+#dob{
+    margin-right: 50px;
+    margin-left: 78px;
+}
+#start{
+    margin-right    : 75px;
+}
+#End{
+    margin-left: 105px;
+}
